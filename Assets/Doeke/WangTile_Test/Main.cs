@@ -26,8 +26,8 @@ public class Main : MonoBehaviour {
         WangTile[] tiles = Get_Tile_Array();
 
 
-        int x_steps = 10;
-        int y_steps = 10;
+        int x_steps = 30;
+        int y_steps = 30;
 
         WangTile[][] cells = new WangTile[y_steps][];
 
